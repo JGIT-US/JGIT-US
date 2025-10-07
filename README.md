@@ -11,8 +11,8 @@
 
 <h2>👨‍🏫 Certifcations </h2>
 
-- [CompTIA A+] (https://tinyurl.com/yvxbdavs)
-- [Google IT Support Professional] (https://tinyurl.com/5n7ndfs6)
+- [CompTIA A+](https://tinyurl.com/yvxbdavs)
+- [Google IT Support Professional](https://tinyurl.com/5n7ndfs6)
 - [CompTIA Network+] – In Progress
 
 <h2>🔭 I’m currently working on</h2>
