@@ -19,12 +19,11 @@
 - I am currently working on expanding my knowledge in networking as I prepare for the CompTIA Network+ certification. This includes hands-on labs and studying key topics such as network protocols, infrastructure, security, and troubleshooting.
 
 <h2>🌱 I’m currently learning</h2>
+
 - ITIL Foundations
 - Networking Fundamentals
 
 <h2> 🤳 Connect with me:</h2>
-
-[youtube]: (https://www.youtube.com/c/joshmadakor)
 [linkedin]: (https://www.linkedin.com/in/jordanit)
 
 <!--
