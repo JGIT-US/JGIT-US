@@ -1,9 +1,9 @@
 <h1>Hi, I'm Jordan! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JGIT-US/Active-Directory-Lab/blob/main/README.md)
-- [Network Design Home Lab] - In Progress
+- Network Design Home Lab - In Progress
  
  <h2>📄 Tech Tutorials</h2>
 
@@ -13,7 +13,7 @@
 
 - [CompTIA A+](https://tinyurl.com/yvxbdavs)
 - [Google IT Support Professional](https://tinyurl.com/5n7ndfs6)
-- [CompTIA Network+] – In Progress
+- CompTIA Network+ – In Progress
 
 <h2>🔭 I’m currently working on</h2>
 - I am currently working on expanding my knowledge in networking as I prepare for the CompTIA Network+ certification. This includes hands-on labs and studying key topics such as network protocols, infrastructure, security, and troubleshooting.
