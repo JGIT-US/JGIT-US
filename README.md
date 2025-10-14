@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/JGIT-US/Active-Directory-Lab/blob/main/README.md)
 - Network Design Home Lab - In Progress
-- Implementing Ticketing Systems (The What's & Why's)
+- Implementing Ticketing Systems (The How's & Why's)(link) 
  
 <h2>👨‍🏫 Certifcations </h2>
 
