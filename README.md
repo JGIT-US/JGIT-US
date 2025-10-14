@@ -4,11 +4,8 @@
 
 - [Active Directory Home Lab](https://github.com/JGIT-US/Active-Directory-Lab/blob/main/README.md)
 - Network Design Home Lab - In Progress
+- Implementing Ticketing Systems (The What's & Why's)
  
- <h2>📄 Tech Tutorials</h2>
-
-- [Tutorial] Active Directory Home Lab
-
 <h2>👨‍🏫 Certifcations </h2>
 
 - [CompTIA A+](https://tinyurl.com/yvxbdavs)
@@ -16,10 +13,9 @@
 - CompTIA Network+ – In Progress
 
 <h2>🔭 I’m currently working on</h2>
-- I am currently working on expanding my knowledge in networking as I prepare for the CompTIA Network+ certification. This includes hands-on labs and studying key topics such as network protocols, infrastructure, security, and troubleshooting.
-
-<h2>🌱 I’m currently learning</h2>
-
+- I am currently working on expanding my knowledge in networking as I prepare for the CompTIA Network+ certification. This includes hands-on labs and studying key topics such as network protocols, infrastructure, security, and troubleshooting, in which I will be creating a Network Design Home Lab to test and practice what I learn.
+ 
+<h2>🌱 I’m currently learning </h2>
 - ITIL Foundations
 - Networking Fundamentals
 
