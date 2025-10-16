@@ -3,8 +3,8 @@
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JGIT-US/Active-Directory-Lab/blob/main/README.md)
+- [Implementing Ticketing Systems](https://github.com/JGIT-US/Implementing-Ticketing-System)
 - Network Design Home Lab - In Progress
-- Implementing Ticketing Systems (The How's & Why's)(link) 
  
 <h2>👨‍🏫 Certifcations </h2>
 
