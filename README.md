@@ -1,5 +1,8 @@
 <h1>Hi, I'm Jordan! </h1>
+<h2>👋 About Me:</h2>
+With over a decade of experience in customer service, I’ve built a strong foundation in communication, problem-solving, and helping others — skills that now fuel my passion for technology. Currently pursuing a bachelor’s degree in Cybersecurity and Information Assurance at Western Governors University, I’m excited to grow in the IT field and contribute to innovative, tech-driven solutions.
 
+Outside of work, I’m a huge anime enthusiast, follow football closely, and enjoy diving into game journalism and all things tech — from the latest software and smartphones to custom-built PCs. I’m always curious, always learning, and always ready to tackle the next challenge.
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/JGIT-US/Active-Directory-Lab/blob/main/README.md)
