@@ -14,7 +14,7 @@ Outside of work, I’m a huge anime enthusiast, follow football closely, and enj
 
 - [CompTIA A+](https://tinyurl.com/yvxbdavs)
 - [Google IT Support Professional](https://tinyurl.com/5n7ndfs6)
-- CompTIA Network+ – In Progress
+- CompTIA Network+ – IN PROGRESS! [Expected 11/25]
 
 <h2>🔭 I’m currently working on</h2>
 - I am currently working on expanding my knowledge in networking as I prepare for the CompTIA Network+ certification. This includes hands-on labs and studying key topics such as network protocols, infrastructure, security, and troubleshooting, in which I will be creating a Network Design Home Lab to test and practice what I learn.
