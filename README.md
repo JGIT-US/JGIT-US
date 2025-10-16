@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jordan! </h1>
+<h1>Hi, I'm Jordan! Welcome To my Portfolio!</h1>
+
 <h2>👋 About Me:</h2>
 With over a decade of experience in customer service, I’ve built a strong foundation in communication, problem-solving, and helping others — skills that now fuel my passion for technology. Currently pursuing a bachelor’s degree in Cybersecurity and Information Assurance at Western Governors University, I’m excited to grow in the IT field and contribute to innovative, tech-driven solutions.
 
