@@ -8,7 +8,7 @@ Outside of work, I’m a huge anime enthusiast, follow football closely, and enj
 
 - [Active Directory Home Lab](https://github.com/JGIT-US/Active-Directory-Lab/blob/main/README.md)
 - [Implementing Ticketing Systems](https://github.com/JGIT-US/Implementing-Ticketing-System)
-- Network Design Home Lab - In Progress
+- Network Design Home Lab - COMING SOON!
  
 <h2>👨‍🏫 Certifcations </h2>
 
